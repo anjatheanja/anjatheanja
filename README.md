@@ -1,5 +1,4 @@
 ## Hi there 👋
-<div align="center">
 My name is Anna and I am just starting out ^ ^ 
 
 
@@ -11,7 +10,6 @@ My name is Anna and I am just starting out ^ ^
 
 <br>
 
-<div align="center">
 
 ![Anja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjatheanja&show_icons=true&theme=transparent)
 
@@ -30,7 +28,6 @@ My name is Anna and I am just starting out ^ ^
 - HTML
 <br>
 
-<div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjatheanja&layout=compact&theme=transparent)
 
