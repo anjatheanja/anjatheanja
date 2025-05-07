@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<div align="center">
 My name is Anna and I am just starting out ^ ^ 
 
 
