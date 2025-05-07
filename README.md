@@ -31,11 +31,7 @@ My name is Anna and I am just starting out ^ ^
 
 <br>
 
-### 🤔 I’m looking for help with
-
-- Ideas for small projects
-
-### 📫 How to reach me
+### 📫 Little show off corner 
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/anna-plavyuk-674448223">
