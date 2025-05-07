@@ -2,11 +2,13 @@
 My name is Anna and I am just starting out ^ ^ 
 
 
-### 🔭 I’m working on
+<h3>🔭 I’m working on</h3>
 
-- Cute Stuff
-- Learning Stuff
-- IDK yet ^^
+<ul>
+  <li><span style="color:#d14;">💖 Cute Stuff</span></li>
+  <li><span style="color:#6a5acd;">📚 Learning Stuff</span></li>
+  <li><span style="color:#228b22;">🤷‍♀️ IDK yet ^^</span></li>
+</ul>
 
 <br>
 
