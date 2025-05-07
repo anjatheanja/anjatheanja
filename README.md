@@ -8,7 +8,6 @@ My name is Anna and I am just starting out ^ ^
 - Cute Stuff
 - Learning Stuff
 - IDK yet ^^
-![Anja's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjatheanja&show_icons=true&theme=tokyonight)
 
 ### 🌱 I’m learning
 
@@ -18,7 +17,6 @@ My name is Anna and I am just starting out ^ ^
 - SQL
 - R
 - HTML
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjatheanja&layout=compact&theme=tokyonight)
 
 
 ### 🤔 I’m looking for help with
@@ -41,4 +39,14 @@ I'm a cat person.
 Hehe a little visitor count!!
 ![Visitor Count](https://komarev.com/ghpvc/?username=anjatheanja&color=blue)
 
+<br>
 
+<div align="center">
+### 📊 My GitHub Stats
+
+![Anja's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjatheanja&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjatheanja&layout=compact&theme=tokyonight)
+
+</div>
+
+<br>
