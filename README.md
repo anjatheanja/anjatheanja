@@ -34,3 +34,6 @@ My name is Anna and I am just starting out ^ ^
 
 I'm a cat person.
 
+![Visitor Count](https://komarev.com/ghpvc/?username=anjatheanja&color=blue)
+
+
