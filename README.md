@@ -1,6 +1,8 @@
 ## Hi there 👋
 My name is Anna and I am just starting out ^ ^ 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Cute Pixel Cat">
+</p>
 
 ### 🔭 I’m working on
 
@@ -12,6 +14,7 @@ My name is Anna and I am just starting out ^ ^
 
 </div>
 <br>
+
 ### 🌱 I’m learning
 
 - Python
